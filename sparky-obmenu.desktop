@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Applications;Utility;
+Exec=xdotool key Ctrl+m
+Hidden=true
+Icon=/usr/share/pixmaps/sparky.png
+Name=Menu
+StartupNotify=true
+Terminal=false
+Type=Application
+
